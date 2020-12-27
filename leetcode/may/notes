@@ -1,0 +1,9 @@
+db.families.insert(
+  {
+    id: 102, products: [
+      { 
+        id: "102_p1", name: "102 P1", variations: [{ id:  "102_p1_v1", name: "102_p1_v1"}, { id:  "102_p1_v2", name: "102_p1_v2"}] 
+      }
+    ]
+  }
+)
